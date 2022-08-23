@@ -20,8 +20,6 @@ jobs:
       - name: Install dev dependencies
         run: yarn install
 
-      - uses: docker-practice/actions-setup-docker@master
-
       - name: Run the tests
         run: yarn test
 
