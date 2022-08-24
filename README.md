@@ -1,6 +1,6 @@
 # Time to get productive
 
-Log Time is a console-based time logger for node.js that can help you track execution time of your functions and libraries. And everthing with only two functions.
+Log Time is a console-based time logger for node.js that can help you track execution time of your functions and libraries. And everthing with only two methods.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![codecov](https://codecov.io/gh/Joao208/didactic-parakeet/branch/main/graph/badge.svg?token=CCI03J2T00)](https://codecov.io/gh/Joao208/didactic-parakeet)
