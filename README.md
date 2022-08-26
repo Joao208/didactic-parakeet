@@ -22,7 +22,7 @@ You can install with npm or yarn
 ```javascript
 import LogTime from 'console-time'
 
-const myTime = new LogTime(console.log) // here you pass your logging method, and can do anything
+const myTime = new LogTime(console.log) // here you pass your logging method
 
 myTime.start()
 
